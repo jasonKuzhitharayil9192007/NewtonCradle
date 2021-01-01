@@ -1,4 +1,3 @@
-// this is my newton's cradle project
 var roof,rope1,bobObject1,bobObject2,bobObject3,bobObject4,bobObject5,bobDiameter;
 const Engine = Matter.Engine;
 const World = Matter.World;
